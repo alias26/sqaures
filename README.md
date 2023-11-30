@@ -19,8 +19,8 @@
 - Visual Generation을 시도해본 결과 이미지를 달라는 답변을 얻었고 ChatGPT에 만들어진 HTML 이미지를 주고 Visual Generation도 시도해볼 필요가 있습니다.
 
 ## 파일
-> gpt.py : Text2HTML을 가능하게 해주는 ChatGPT API 기반 챗봇 Object
-> main.py : Streamlit으로 UI 구성
+> **gpt.py** : Text2HTML을 가능하게 해주는 ChatGPT API 기반 챗봇 Object  
+> **main.py** : Streamlit으로 UI 구성
 
 ## 환경설정
 ```
