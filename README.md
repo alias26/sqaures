@@ -31,6 +31,8 @@
 ## 환경설정
 ```
 pip install -r requirements.txt
+
+gpt.py 내부에 ChatGPT API를 넣어주세요.
 ```
 ## 실행 방법
 ```
