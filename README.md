@@ -20,7 +20,7 @@
 - 질문에 따라 답변 속도가 크게 달라지며 코드 개선이나 다른 모델, API 사용을 고려해볼 수 있을 것 같습니다.
 
 ## API 범위 및 상세
-**ChatGPT** : 사용자 질문 입력에 따른 HTML 생성
+**ChatGPT** : 사용자 질문 입력에 따른 HTML 생성  
 **Streamlit** : UI 구성 및 답변 출력 
 > Streamlit Text_Input -> ChatGPT 서버 -> Streamlit 질문, 캔버스, 코드 출력
 
